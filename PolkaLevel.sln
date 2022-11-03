@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolkaLevel", "PolkaLevel.csproj", "{3AFC674C-01FF-40D4-8554-5D467BB0020D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AFC674C-01FF-40D4-8554-5D467BB0020D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AFC674C-01FF-40D4-8554-5D467BB0020D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AFC674C-01FF-40D4-8554-5D467BB0020D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AFC674C-01FF-40D4-8554-5D467BB0020D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {827BAB5F-90C9-4726-8D1A-C85A68E867A4}
+	EndGlobalSection
+EndGlobal
